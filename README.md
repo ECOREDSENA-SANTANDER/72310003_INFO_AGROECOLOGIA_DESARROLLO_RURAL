@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-santander.github.io/ECORED_BASE_INFO_SANTANDER/](https://ecoredsena-santander.github.io/ECORED_BASE_INFO_SANTANDER/)
+[https://ecoredsena-santander.github.io/72310003_INFO_AGROECOLOGIA_DESARROLLO_RURAL/](https://ecoredsena-santander.github.io/72310003_INFO_AGROECOLOGIA_DESARROLLO_RURAL/)
 
 #
